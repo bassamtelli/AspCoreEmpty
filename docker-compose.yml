@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  aspcoreempty:
+    image: aspcoreempty
+    build:
+      context: .
+      dockerfile: AspCoreEmpty/Dockerfile

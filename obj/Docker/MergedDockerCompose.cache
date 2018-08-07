@@ -1,0 +1,11 @@
+services:
+  aspcoreempty:
+    build:
+      context: /Users/bassam/Projects/AspCoreEmpty
+      dockerfile: AspCoreEmpty/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: aspcoreempty
+    ports:
+    - target: 80
+version: '3.4'

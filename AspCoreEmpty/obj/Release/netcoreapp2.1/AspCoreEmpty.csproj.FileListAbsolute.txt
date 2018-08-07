@@ -1,0 +1,13 @@
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/bin/Release/netcoreapp2.1/AspCoreEmpty.deps.json
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/bin/Release/netcoreapp2.1/AspCoreEmpty.runtimeconfig.json
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/bin/Release/netcoreapp2.1/AspCoreEmpty.runtimeconfig.dev.json
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/bin/Release/netcoreapp2.1/AspCoreEmpty.dll
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/bin/Release/netcoreapp2.1/AspCoreEmpty.pdb
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.csproj.CoreCompileInputs.cache
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.RazorAssemblyInfo.cache
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.RazorAssemblyInfo.cs
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.AssemblyInfoInputs.cache
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.AssemblyInfo.cs
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.RazorTargetAssemblyInfo.cache
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.dll
+/Users/bassam/Projects/AspCoreEmpty/AspCoreEmpty/obj/Release/netcoreapp2.1/AspCoreEmpty.pdb
